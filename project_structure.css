@@ -1,0 +1,28 @@
+big-data-analytics-recommendations/
+│
+├── data/
+│   ├── raw/
+│   ├── processed/
+│
+├── notebooks/
+│   ├── data_exploration.ipynb
+│   └── model_training.ipynb
+│
+├── src/
+│   ├── data_ingestion.py
+│   ├── data_processing.py
+│   ├── recommendation_engine.py
+│   ├── evaluation.py
+│   └── visualization.py
+│
+├── reports/
+│   ├── power_bi_dashboard.pbix
+│   └── tableau_dashboard.twb
+│
+├── spark_jobs/
+│   ├── collaborative_filtering.py
+│   └── content_based_filtering.py
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
