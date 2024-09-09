@@ -1,0 +1,9 @@
+pyspark
+hadoop
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+powerbiclient
+tableau-api-lib
